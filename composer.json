@@ -18,5 +18,11 @@
     "psr-4": {
       "Manyou\\Aria2\\": ""
     }
+  },
+  "minimum-stability": "dev",
+  "extra": {
+      "branch-alias": {
+          "dev-main": "0.1-dev"
+      }
   }
 }
