@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Bohan\Aria2;
+namespace Manyou\Aria2;
 
 use RuntimeException;
 
